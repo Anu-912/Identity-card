@@ -16,90 +16,103 @@ sname="Anudari"
 semail="anudariochiredene@gmail.com"
 studentcode="26bs801324"
 />
-<Card 
-sgender="Female"
-sname="Anudari"
-semail="anudariochiredene@gmail.com"
-studentcode="26bs801324"
-/>
-</div>  );
-}
-<Card
+<div>
+      <Card
+        sgender="Female"
+        sname="Anudari"
+        semail="anudariochiredene@gmail.com"
+        studentcode="26bs801324"
+        idpic="https://th.bing.com/th/id/R.f83c07d0f3b9b5b675978840fb853a94?rik=yKuXjlBMWPzsRA&riu=http%3a%2f%2f4.bp.blogspot.com%2f-dZ4VlGvH9vc%2fUBlJXsjGreI%2fAAAAAAAARvA%2fSKXP-99TZaM%2fs1600%2ffunny-cat-pictures-009-045.jpg&ehk=grXffVQODzBpt9kVJIK8a8AiYziWaeb6tev7AIOtw4I%3d&risl=&pid=ImgRaw&r=0"
+      />
+      <Card
         sgender="Male"
         sname="Baasandorj.E"
         semail="baskaerka763@gmail.com"
         studentcode="25BS65476"
+        idpic="https://media.wired.com/photos/59324c6352d99d6b984dd8ee/3:2/w_2560%2Cc_limit/Grumpy_Kitty....jpg"
       />
       <Card
         sgender="Male"
         sname="Nyambayar.T"
         semail="yunoxsama00@gmail.com"
         studentcode="25LP7381"
+        idpic="https://m.media-amazon.com/images/I/712tQUrusKL._AC_UF894,1000_QL80_.jpg"
       />
       <Card
         sgender="Female"
         sname="Dolgoonzul.L"
         semail="dolgoonlkhagva@gmail.com"
         studentcode="26BS86071"
+        idpic="https://cdn-useast1.kapwing.com/static/templates/crying-cat-meme-template-full-719a53dc.webp"
       />
       <Card
         sgender="Female"
         sname="Nomin.G"
         semail="gnomin200408@gmail.com"
         studentcode="25BS52373"
+        idpic="https://www.meowbox.com/cdn/shop/articles/Screen_Shot_2024-03-15_at_10.53.41_AM.png?v=1710525250"
       />
       <Card
         sgender="Male"
         sname="Nyamochir.L"
         semail="yunoxsama00@gmail.com"
         studentcode="26BS98744"
+        idpic="https://i.pinimg.com/474x/18/0b/65/180b65de6c5ae60e43a615065c8622c2.jpg"
       />
       <Card
         sgender="Male"
         sname="Aznorov.M"
         semail="azaamunkhtn@gmail.com"
         studentcode="25LP1286"
+        idpic="https://cdn-useast1.kapwing.com/static/templates/scared-cat-meme-template-full-400dbb6d.webp"
       />
       <Card
         sgender="Male"
         sname="Bilegsaikhan.B"
         semail="bbek3201@gmail.com"
         studentcode="26BS83263"
+        idpic="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlCIxY_LfsuYPAWBPycjBMHnnO-YSY1ryyHA&s"
       />
       <Card
         sgender="Male"
         sname="Batmagnai.Sh"
         semail="sbatmagnai25@gmail.com"
         studentcode="25LP6073"
+        idpic="https://tr.rbxcdn.com/180DAY-ef3a6ad0fff5d586454a11056b023c8a/420/420/FaceAccessory/Webp/noFilter"
       />
       <Card
         sgender="Male"
         sname="Chinzorig.B"
         semail="chinzoobatbold11@gmail.com"
         studentcode="26BS13491"
+        idpic="https://i.pinimg.com/736x/e7/79/00/e77900aaae7e23223a8aec78ef7a9f57.jpg"
       />
       <Card
         sgender="Male"
         sname="Gaajadamba.B"
         semail="gaajadamba@gmail.com"
         studentcode="26BS25985"
+        idpic="https://media.tenor.com/aE2kxahQBz8AAAAM/ohh.gif"
       />
       <Card
         sgender="Male"
         sname="Monkh-Orgil.B"
         semail="suusiibat@gmail.com"
         studentcode="26BS98744"
+        idpic="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ46Bq3aXIuoXt3VSBk9WaLrWQ3Bgo0IiSvnQ&s"
       />
       <Card
         sgender="Male"
         sname="Batkhuleg.T"
         semail="t.khuleg@gmail.com"
         studentcode="26BS38301"
+        idpic="https://content.imageresizer.com/images/memes/Smiling-Cat-meme-amuvy.jpg"
       />
       <Card
         sgender="Male"
         sname="Ornuun.K"
         semail="urnuun919@gmail.com"
+        idpic="https://i.ytimg.com/vi/rvX8cS-v2XM/maxresdefault.jpg"
         studentcode="25BS21438"
       />
       <Card
@@ -107,48 +120,56 @@ studentcode="26bs801324"
         sname="Tsolmon.B"
         semail="btsolmon.mn@gmail.com"
         studentcode="26BS11043"
+        idpic="https://static.boredpanda.com/blog/wp-content/uploads/2025/10/funny-cat-memes-go-hard-cover_675.jpg"
       />
       <Card
         sgender="Male"
         sname="Bilguuntogs.A"
         semail="bilgntgsamarbayr@gmail.com"
         studentcode="26BS10652"
+        idpic="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgY4HuT1rkO7Y1S-5HlNCo1QoMq8X86OW-ZQ&s"
       />
       <Card
         sgender="Female"
         sname="Nominerdene.Ts"
         semail="nominerdenetsogtbaatar5@gmail.com"
         studentcode="26BS60931"
+        idpic="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQi9xTFF2F6jvCxDITVY1QykgI2Og2ZKsN7kQ&s"
       />
       <Card
         sgender="Female"
         sname="Nominerdene.E"
         semail="ne78693@gmail.com"
         studentcode="26BS42529"
+        idpic="https://preview.redd.it/hot-take-ditch-the-cat-icon-v0-cjf3axr2q2nb1.jpeg?width=992&format=pjpg&auto=webp&s=d9552e294eeeb5caa0404d892ebd047d849c953c"
       />
       <Card
         sgender="Male"
         sname="Bayarbileg.A"
         semail="bayarbileg.am@gmail.com"
         studentcode="26BS44296"
+        idpic="https://pbs.twimg.com/profile_images/718239174004994048/t8fzm5Yp_400x400.jpg"
       />
-       <Card
+      <Card
         sgender="Male"
         sname="Telmuun.M"
         semail="azeroth0017@gmail.com"
         studentcode="26BS99683"
+        idpic=""
       />
       <Card
         sgender="Male"
         sname="Bayartsogt.B"
         semail="bayartsogt9998@gmail.com"
         studentcode="26BS96881"
+        idpic=""
       />
       <Card
         sgender="Male"
         sname="Myangannast.B"
         semail="myngannast.b@gmail.com"
         studentcode="26BS98039"
+        idpic=""
       />
     </div>
   );
