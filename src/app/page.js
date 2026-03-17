@@ -132,23 +132,23 @@ studentcode="26bs801324"
         semail="bayarbileg.am@gmail.com"
         studentcode="26BS44296"
       />
-      <Card
+       <Card
         sgender="Male"
         sname="Telmuun.M"
-        semail="bilgntgsamarbayr@gmail.com"
-        studentcode="26BS10652"
+        semail="azeroth0017@gmail.com"
+        studentcode="26BS99683"
       />
       <Card
         sgender="Male"
-        sname="Bilguuntogs.A"
-        semail="bilgntgsamarbayr@gmail.com"
-        studentcode="26BS10652"
+        sname="Bayartsogt.B"
+        semail="bayartsogt9998@gmail.com"
+        studentcode="26BS96881"
       />
       <Card
         sgender="Male"
-        sname="Bilguuntogs.A"
-        semail="bilgntgsamarbayr@gmail.com"
-        studentcode="26BS10652"
+        sname="Myangannast.B"
+        semail="myngannast.b@gmail.com"
+        studentcode="26BS98039"
       />
     </div>
   );
